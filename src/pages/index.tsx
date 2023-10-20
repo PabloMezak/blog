@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Love for Tecnology - PabloBlog++</title>
+        <title>Love for Tecnology - PabloDev++</title>
       </Head>
       <main className={styles.container}>
 

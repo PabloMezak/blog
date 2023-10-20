@@ -15,13 +15,13 @@ export function Header() {
                         <a>Home</a>
                     </ActiveLink>
                     <ActiveLink href="/posts" activeClassName={styles.active}>
-                        <a>Conteúdo</a>
+                        <a>Content</a>
                     </ActiveLink>
                     <ActiveLink href="/sobre" activeClassName={styles.active}>
-                        <a>Sobre</a>
+                        <a>About</a>
                     </ActiveLink>
                 </nav>
-                <a type='button' className={styles.readyButton} href="http://google.com/">COMEÇAR</a>
+                <a type='button' className={styles.readyButton} href="http://google.com/">BEGIN</a>
             </div>
         </header>
     )
